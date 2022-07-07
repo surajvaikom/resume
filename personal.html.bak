@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+  
+   <title>RESUME</title>
+
+  </head>
+
+  <body>
+  <table><tr><td>
+  <img src="https://pbs.twimg.com/profile_images/480402475514470400/f9cZlOS8_400x400.jpeg" alt="Suraj N S Profile Picture" height="200" width="200" >
+  </td><td>
+   <h1> SURAJ N S </h1>
+   <P><em>JOB SEEKER</em></P>
+   </td>
+   </tr>
+   </table>
+   <hr> 
+   <h3>MCA</h3>
+   <h3>work Experiance</h3>
+   <table>
+   <thead> <tr><th>Dates </th>
+    <th>Discription </th> </tr>   
+	</thead>
+   <tr>
+   <td>2018-Prasent</td>
+    <td>Aadhaar Enrollment</td>
+	</tr>
+	<tr>
+	<td>2012-2018</td>
+    <td>Computer Hardware enginer</td>
+	</tr>
+	</table>	
+
+      
+   <ul>
+     <li>2017 Pass out</li>
+	 <li>64.4% Mark</li>
+	</ul> 
+	
+	<ol>
+     <li>Travel</li>
+	 <li><a href="https://en.wikipedia.org/wiki/Numismatics">Numismatics</a></li>
+	</ol> 
+	<h3><a href="F:/contact.html"> Contact</a></h3>
+	
+	
+
+  </body>
+
+</html>
